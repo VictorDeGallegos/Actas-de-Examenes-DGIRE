@@ -36,4 +36,6 @@ Los directivos pueden:
 - [ ] Poder navegar por los diferentes planteles sin la necesidad de cerrar sesión.
 - [ ] Poder Volver a consultar el resumen de actas de Exámenes.
 
-## Diagrama de navegación 🏄
+## Diagrama de casos de Uso 📊
+
+![DiagramaCasosDeUso](https://user-images.githubusercontent.com/41756950/205379533-532cc18b-8846-4914-89d8-0812e5061608.png)
