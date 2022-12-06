@@ -39,3 +39,27 @@ Los directivos pueden:
 ## Diagrama de casos de Uso 📊
 
 ![DiagramaCasosDeUso](https://user-images.githubusercontent.com/41756950/205379533-532cc18b-8846-4914-89d8-0812e5061608.png)
+
+## Wireframes de navegación 🏄 🖼️
+
+En esta sección se muestran los posibles wireframes de navegación de la aplicación.
+
+### Login
+
+![ACTAS - LOGIN](https://user-images.githubusercontent.com/41756950/206012798-038b96f1-48b9-4efa-adc0-04ac11c3afcc.png)
+
+### Resumen de actas
+
+![ACTAS - RESUMENES_Profesor](https://user-images.githubusercontent.com/41756950/206012920-80c03094-2939-4cb3-ba47-54c1cffa0e22.png)
+
+### Consultar actas
+
+![ACTAS - ACTAS_PROFESOR](https://user-images.githubusercontent.com/41756950/206013048-d202be68-c896-4cae-ba7b-d2583e21aa84.png)
+
+### Calificar actas/Detalles
+
+![ACTAS - DETALLES ACTAS_PROFESOR](https://user-images.githubusercontent.com/41756950/206013191-8e4f54f5-9d2e-4931-8dd9-1d91392623b0.png)
+
+### Ayuda
+
+![ACTAS - AYUDA _PROFESOR](https://user-images.githubusercontent.com/41756950/206013526-d166c15a-1826-4b7f-8e6d-8a89687f5926.png)
